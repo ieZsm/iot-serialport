@@ -1,0 +1,27 @@
+# ninja log v5
+1	1169	7647616497579480	IoTSerialPort_autogen/timestamp	8264c4718ed3c8fb
+1	1169	7647616497579480	IoTSerialPort_autogen/mocs_compilation.cpp	8264c4718ed3c8fb
+1	1169	7647616497579480	E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/IoTSerialPort_autogen/timestamp	8264c4718ed3c8fb
+1	1169	7647616497579480	E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/IoTSerialPort_autogen/mocs_compilation.cpp	8264c4718ed3c8fb
+1174	2131	7647616507589790	CMakeFiles/IoTSerialPort.dir/rs485.cpp.obj	8472ea24e1bd861a
+1171	2367	7647616510052580	CMakeFiles/IoTSerialPort.dir/main.cpp.obj	6e3691c5e12b0578
+1175	2252	7647616508896478	CMakeFiles/IoTSerialPort.dir/mysql.cpp.obj	e9591ff1673f94c3
+1172	5321	7647616539577938	CMakeFiles/IoTSerialPort.dir/mainwindow.cpp.obj	3f6b7e9219068be4
+1170	8015	7647616566340313	CMakeFiles/IoTSerialPort.dir/IoTSerialPort_autogen/mocs_compilation.cpp.obj	ab1c2542d6d71441
+4	1119	7647616826456022	IoTSerialPort_autogen/timestamp	8264c4718ed3c8fb
+4	1119	7647616826456022	IoTSerialPort_autogen/mocs_compilation.cpp	8264c4718ed3c8fb
+4	1119	7647616826456022	E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/IoTSerialPort_autogen/timestamp	8264c4718ed3c8fb
+4	1119	7647616826456022	E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/IoTSerialPort_autogen/mocs_compilation.cpp	8264c4718ed3c8fb
+1126	2097	7647616836768662	CMakeFiles/IoTSerialPort.dir/rs485.cpp.obj	808b57d222b7195d
+1124	2277	7647616838571187	CMakeFiles/IoTSerialPort.dir/mysql.cpp.obj	9d5cd4a70fda649e
+1122	2407	7647616839788909	CMakeFiles/IoTSerialPort.dir/main.cpp.obj	13f7e21508de15c2
+1121	5632	7647616872098975	CMakeFiles/IoTSerialPort.dir/mainwindow.cpp.obj	c806cf0f263f0a0d
+1119	8466	7647616900324312	CMakeFiles/IoTSerialPort.dir/IoTSerialPort_autogen/mocs_compilation.cpp.obj	c5e00cedc802de8f
+1123	18505	7647617000407599	CMakeFiles/IoTSerialPort.dir/qcustomplot.cpp.obj	e6f213a98ddfe290
+18505	22437	7647617040112759	IoTSerialPort.exe	92834193a885fe18
+4	145	7647617703008434	IoTSerialPort_autogen/timestamp	8264c4718ed3c8fb
+4	145	7647617703008434	IoTSerialPort_autogen/mocs_compilation.cpp	8264c4718ed3c8fb
+4	145	7647617703008434	E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/IoTSerialPort_autogen/timestamp	8264c4718ed3c8fb
+4	145	7647617703008434	E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/IoTSerialPort_autogen/mocs_compilation.cpp	8264c4718ed3c8fb
+149	4170	7647617743166757	CMakeFiles/IoTSerialPort.dir/mainwindow.cpp.obj	c806cf0f263f0a0d
+4170	8074	7647617782184554	IoTSerialPort.exe	92834193a885fe18
