@@ -1,0 +1,9 @@
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/IoTSerialPort.dir
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/install.dir
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/IoTSerialPort_autogen_timestamp_deps.dir
+E:/Github/iot-serialport/project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/IoTSerialPort_autogen.dir

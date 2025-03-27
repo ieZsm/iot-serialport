@@ -1,0 +1,13 @@
+1、添加库
+
+解压后将.cpp和.h文件加入项目
+
+2、file to big
+
+ninja: build stopped: subcommand failed的错误（编译的文件太大了file too big）
+
+解决方法：修改Cmake参数，项目—构建—initial configuration下面，CMAKE_CXX_FLAGS_INIT值修改为-g -Og，修改完re-configure一下。
+
+3、undefined reference to "xxx"
+
+修改cmakelists，添加find_package(Qt6 REQUIRED COMPONENTS PrintSupport)和target_link_libraries(项目名称 PRIVATE Qt6::PrintSupport)
