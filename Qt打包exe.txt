@@ -1,0 +1,5 @@
+1、window+R打开运行窗口，输入cmd，进入命令行工具界面。
+2、输入cd/d F:\Qt\qt_6.5.3\6.5.3\mingw_64\bin 回车，进入该目录。
+3、输入qtenv2.bat回车，运行该文件。
+4、输入cd/d [xxx.exe所在的文件目录] 回车，进入该目录。
+5、输入windeployqt xxx.exe 回车，即可打包成功。
