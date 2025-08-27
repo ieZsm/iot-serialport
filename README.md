@@ -27,6 +27,8 @@
 
 
 
-Fatal error: CMakeFiles/IoTSerialPort.dir/qcustomplot.cpp.obj: file too big
-解决方法：项目——构建——Cmake——initial configurationz中修改CMAKE_CXX_FLAGS_INIT参数为**-g -Og**——re-configure and initial paramters
+##### 其他问题
+
+1. Fatal error: CMakeFiles/IoTSerialPort.dir/qcustomplot.cpp.obj: file too big
+   解决方法：项目——构建——Cmake——initial configurationz中修改CMAKE_CXX_FLAGS_INIT参数为**-g -Og**——re-configure and initial paramters
 
